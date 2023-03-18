@@ -1,5 +1,8 @@
 ### Hi there 👋
-
+- 🔭 I’m currently working on Kotlin and Java for mobile developing
+- 🌱 I’m currently learning still Kotlin :)
+- 👯 I’m looking to collaborate on some friends who developer
+- 📫 Here is my e-mail = dnzcany@gmail.com
 <!--
 **dnzcany/dnzcany** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
