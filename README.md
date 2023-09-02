@@ -17,7 +17,7 @@
 
 - 📫 How to reach me **dnzcany@gmail.com**
 
-- ⚡ Fun fact **I'm just 20 y.o**
+- ⚡ Fun fact **I'm just a 20-year-old software engineering second-year student.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
